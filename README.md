@@ -2,6 +2,9 @@
 
 **Scaler AI Labs — Assignment**
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?logo=github)](https://github.com/Piyush12379/pii-redaction-tool)
+[![Streamlit App](https://img.shields.io/badge/Live-Demo-red?logo=streamlit)](https://pii-redaction-too-gqcbhmwpn9vnsb7gypiikm.streamlit.app/)
+
 A modular, pipeline-based tool that detects and redacts Personally Identifiable Information (PII) from `.docx` documents. Built with a combination of regex pattern matching, spaCy Named Entity Recognition (NER), Luhn checksum validation, and curated ground-truth heuristics — optimised for Indian financial prospectus documents.
 
 ---
